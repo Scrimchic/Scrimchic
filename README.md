@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Welcome  
 
-<!--
-**Scrimchic/Scrimchic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **software developer** focused on building efficient, scalable, and practical solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack  
+
+**Languages:**  
+Python • Java • C# • JavaScript  
+
+**Frameworks & Tools:**  
+FastAPI • Flask • Telegram API • Discord API • Unity  
+
+**Databases:**  
+MySQL • SQLite • PostgreSQL  
+
+**Focus Areas:**  
+Backend Development • Automation • Bots • API Integrations  
+
+---
+
+## 📬 Get in Touch  
+
+- **Email:** [vlad.fedynysh@gmail.com](mailto:vlad.fedynysh@gmail.com)  
+- **Telegram:** [@PremiumCoder](https://t.me/PremiumCoder)  
+- **LinkedIn:** [Vladyslav Fedynyshyn](https://www.linkedin.com/in/vladyslav-fedynyshyn-75575333a/)  
